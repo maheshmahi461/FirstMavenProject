@@ -2,7 +2,7 @@
 <body>
   <div align="center">
     <h2>Registration Form</h2>
-    <form action="checkuser.jsp" method="post">
+    <form>
       <table>
         <tr>
           <td>Name: </td>
